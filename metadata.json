@@ -1,0 +1,6 @@
+{
+  "name": "Just Wen AI",
+  "description": "Create complete, responsive websites simply by describing what you need with Just Wen AI. AI-powered design, real-time visual editing, and instant publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
